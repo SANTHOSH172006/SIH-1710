@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/03/2025
+## Register Number:212223220099
+## Name:SANTHOSH D
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -10,17 +10,59 @@ Background: Railway stations are complex environments with numerous facilities a
 ## Problem Creater's Organization
 Ministry of Railway
 
-## Idea
+## Idea:
+
+1.Mobile App with 3D interactive maps, AR guidance, and real-time updates.
+
+2.Digital Kiosks with touchscreen maps, multi-language support, and accessibility features.
+
+3.Voice-Guided Navigation for visually impaired users.
+
+4.Integration with train schedules and station services.
 
 
-## Proposed Solution / Architecture Diagram
+5.AI-Based Crowd Management to suggest less congested routes.
+
+6.Offline Mode for uninterrupted access.
 
 
-## Use Cases
+## Proposed Solution / Architecture Diagram:
 
 
-## Technology Stack
+![ludus11](https://github.com/user-attachments/assets/7fb41720-0307-48b7-b985-65b7b1fc1a84)
+
+
+
+
+## Use Cases:
+
+![ludus22](https://github.com/user-attachments/assets/8320caf5-a51c-4cb0-93c7-5518b841e1b7)
+
+## Technology Stack:
+
+1.Frontend: 
+          React Native (mobile), React.js (kiosks), ARKit/ARCore (AR navigation).
+
+2.Backend:
+          Node.js/Django, PostgreSQL/Firebase, hosted on AWS/GCP/Azure.
+
+3.Indoor Navigation: 
+                    Bluetooth Beacons, Wi-Fi RTT, Google Maps API, Mapbox.
+
+4.Real-Time AI Features: 
+                        TensorFlow/OpenCV for crowd detection, Google TTS for voice navigation.
+
+5.Accessibility: 
+                Voice assistants (Google Assistant, Siri), multi-language support.
 
 
 ## Dependencies
+
+1.Navigation Technology (GPS, IPS, AR/VR, IoT)
+
+2.Digital Infrastructure (Signage, kiosks, beacons, Wi-Fi, 5G)
+
+3.hardware dependencies
+
+4.software dependencies
 
